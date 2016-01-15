@@ -1,4 +1,4 @@
-VIPER-TODO
+App Services
 ==========
 
-Example project architected using VIPER
+This is an example project on how to split AppDelegate.m into several classes with individual responsibilites.
